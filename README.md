@@ -1,3 +1,3 @@
-# Learning-Python
-In this course we will learn the basic of the python and advance level python by code with Harry
->>>>>>> 1c372fd8a484409e3e77a658860e19edba6420d6
+Learning the Python by code with Harry 
+1).First Chapter cover the Bascis of the python like how to print anything on the screen and how to take the input from the  user 
+2)  Chapter Third Covers the string 
