@@ -1,0 +1,1 @@
+print(Reverse[::,-1])
