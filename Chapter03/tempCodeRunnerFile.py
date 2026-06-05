@@ -1,1 +1,0 @@
-print(Reverse[::,-1])
